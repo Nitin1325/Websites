@@ -1,0 +1,23 @@
+.thick{
+  height:10px;
+  border:2px black;
+  background-color: #CCCC98;
+  border-color:#CCCC98 ;
+}
+
+#id{
+  width:10px;
+  height:20px;
+}
+
+#main{
+  margin-left:250px;
+  margin-top:15px;
+}
+
+Div{
+  background-color: white;
+  margin-left:75px;
+  margin-right:75px;
+  height:75px;
+}
